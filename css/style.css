@@ -227,3 +227,16 @@ section p {
     background-size: 1000px 600px;
     margin-top: 40px;
 }
+
+
+/* FOOOTER */
+
+footer {
+    background-color: #F5F5F7;
+    margin: 0 auto;
+}
+
+.footertext {
+    width: 70vw;
+    
+}
