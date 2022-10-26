@@ -1,0 +1,229 @@
+* {
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+
+/* HEADEERRRRRRRRR */
+
+header {
+    height: 44px;
+    display: flex;
+    flex-flow: row wrap;
+    text-decoration: none;
+    background-color: #000000c8;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 260px;
+    padding-right: 260px;
+    position: sticky;
+}
+
+header a {
+    color: white;
+}
+
+
+/* MAINNNNNNNNNNN */
+
+main {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.centeredcontainer {
+    display: flex;
+    margin: 0 auto;
+    width: 70vw;
+    flex-flow: column wrap;
+    padding-left: 13%;
+    padding-right: 13%;
+}
+
+.learnbuy {
+    width: 20vw;
+    display: flex;
+    justify-content: space-evenly;
+    color: #0066CC;
+    margin: 0 auto;
+}
+
+
+.img1 {
+    margin-top: 30px;
+}
+
+
+/* Sectionnnnnnn */
+
+article {
+    background-color: black;
+    background-image: url(../img/figure\ \(1\).png);
+    background-size: cover;
+    background-position: 200px 150px cover;
+    height: 1000px;
+    background-repeat: no-repeat;
+
+}
+
+section h1 {
+    color: white;
+}
+
+section p {
+    color: white;
+}
+
+
+
+/* ARCTICLE 22222 */
+
+.article2 {
+    background-color: #FBFBFD;
+    background-image: url(../img/figure\ \(2\).png);
+    background-size: cover;
+    background-position: center;
+    height: 1000px;
+    background-repeat: no-repeat;
+    background-size: 1000px 300px;
+    margin-top: 40px;
+}
+
+.centeredcontainer2 {
+    display: flex;
+    margin: 0 auto;
+    width: 70vw;
+    flex-flow: column wrap;
+    padding-left: 13%;
+    padding-right: 13%;
+}
+
+.learnbuy {
+    width: 20vw;
+    display: flex;
+    justify-content: space-evenly;
+    color: #0066CC;
+    margin: 0 auto;
+}
+
+.centeredcontainer2 p {
+    color: black;
+}
+
+.centeredcontainer2 h1 {
+    color: black;
+}
+
+.centeredcontainer2 h2 {
+    color: coral;
+}
+
+/* ARCTICLE 3333333 */
+
+
+.article3 {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+section h1 {
+    color: white;
+}
+
+section p {
+    color: white;
+}
+
+.col2 {
+    width: 50%;
+    margin: 0 auto;
+    background-color: blAck;
+    background-image: url(../img/figure\ \(3\).png);
+    /* background-size: cover; */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 1000px 600px;
+    margin-top: 40px;
+}
+
+
+.col1 {
+    width: 50%;
+    margin: 0 auto;
+    background-color: blAck;
+    background-image: url(../img/figure\ \(4\).png);
+    /* background-size: cover; */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 1000px 600px;
+    margin-top: 40px;
+}
+/* ARCTICLE 44444444 */
+
+
+.article4 {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.col3 {
+    width: 50%;
+    margin: 0 auto;
+    background-color: white;
+    background-image: url(../img/figure\ \(5\).png);
+    /* background-size: cover; */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 1000px 600px;
+    margin-top: 40px;
+}
+
+
+.col4 {
+    width: 50%;
+    margin: 0 auto;
+    background-color: white;
+    background-image: url(../img/figure\ \(6\).png);
+    /* background-size: cover; */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 1000px 600px;
+    margin-top: 40px;
+}
+
+.centeredcontainer4 h1 {
+    color: black;
+}
+.centeredcontainer4 p {
+    color: black;
+}
+
+.article5 {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.col5 {
+    width: 50%;
+    margin: 0 auto;
+    background-color: white;
+    background-image: url(../img/figure\ \(7\).png);
+    /* background-size: cover; */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 1000px 600px;
+    margin-top: 40px;
+}
+
+
+.col6 {
+    width: 50%;
+    margin: 0 auto;
+    background-color: white;
+    background-image: url(../img/figure\ \(8\).png);
+    /* background-size: cover; */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 1000px 600px;
+    margin-top: 40px;
+}
